@@ -2,54 +2,72 @@
 A Binary Options Game Proposal For Drip and MatsFi Economy.
 
 
-Project Title:  
+# Project Name:  
 Mats.Ex : A Real-Time Simulated Binary Options Trading Experience
 
 
-Introduction: 
+# Introduction: 
 This proposal introduces a simple to use P2E binary options game that allows users to apply their knowledge of the crypto markets in exchange for drip rewards. This game is not only fun and engaging but also educational and newbie-friendly , providing a learning experience for players with various skill levels.
 
  
-KEY FEATURES:
+# KEY FEATURES:
 1. A Binary Option Trading Game:
 A simulated trading interface where players make predictions (binary choices) about price movements. (Example: If the price of bitcoin increases within the next one minute the user makes a 92-100% profit and if it does not the user loses all his capital).
 
-2.Real time price action:
+2. Real time price action:
 The trading bot is able to dictate the prices of the assets in real time using API data from Coindesk.
 
 3. Financial Interface: Key calls.
-Debit: Deducts Mats points from the player's balance when they encounter a loss.
-Credit: Adds Mats rewards when a player closes a trade in profit.
-Transfer: Enables users to move mats and fund their trading wallets and bets.
-Check Balance: Allows users to check their trading balance in real time.
+   
+   Debit: Deducts Mats points from the player's balance when they encounter a loss.
+
+   Credit: Adds Mats rewards when a player closes a trade in profit.
+
+   Transfer: Enables users to move mats and fund their trading wallets and bets.
+
+   Check Balance: Allows users to check their trading balance in real time.
 
 
-TARGET GROUP:
+# TARGET GROUP:
 Mats.X is aimed to serve as an educational and entertainment tool for a wide range of users from new crypto /discord users to seasoned crypto Traders and enthusiasts.
 
 
-UNIQUE VALUE PROPOSITION:
+# UNIQUE VALUE PROPOSITION:
 While there are many demo trading platforms out there , there aren't many of them that allow users to explore trading concepts  while still earning rewards for their demo trading activities.
 Secondly, Mats.X serves as an educational and entertainment tool for community members by enabling them to acquire risk-management, quick decision making, psychological and trading skills, striking a balance between entertainment and education through it's simple to use interface and intrinsic gambling feature.
 
 
-MILSTONES:
+# MILSTONES:
 1. Introduction of more assets:
-2. User-Friendly Dashboard:
-A dashboard with a clean interface to show current balance, trade history, and overall performance and net profit like the trading analytics feature in binance. Displays win/loss ratios and provides graphical analytics for trading trends
-3. Daily Refill feature:
-4. Invite feature:
-5. Introduction of higher timeframes:
+   A wider asset range will be introduced subsequntly to increase the betting options for users 
+3. User-Friendly Dashboard:
+   A dashboard with a clean interface to show current balance, trade history, and overall performance and net profit like the trading analytics feature 
+   in binance. Displays win/loss ratios and provides graphical analytics for trading trends
+4. Daily Refill feature:
+   Introduction of a daily salary for users to claim in order to encourage daily interaction and a refill for users that may be low on trading points.
+6. Invite feature:
+   This feature will be added to reward members who invite other their friends to engage the trading game.
+8. Introduction of higher timeframes
+   Higher time frames ranging from  one day to a few months will be introduced for longterm traders , the higher the time frame the more the reward due to higher risk factors.
+
+# REQUIREMENT FROM MEZO/DRIP:
+  Provision of technical resources to help Pizza Labs create a better version of this game with the intended additional features above.
+
+  # TEAM INFORMATION
+  Disord ID : Judy#7245
+  Email : kheity16@gmail.com
+  Twitter: defi_judy
+  
 
 
 
 
 
+
+# project code.
 
 
 ```python
-```python
-
 from discord.ext import commands, tasks
 import discord
 from discord import app_commands
