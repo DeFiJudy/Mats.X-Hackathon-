@@ -37,7 +37,7 @@ While there are many demo trading platforms out there , there aren't many of the
 Secondly, Mats.X serves as an educational and entertainment tool for community members by enabling them to acquire risk-management, quick decision making, psychological and trading skills, striking a balance between entertainment and education through it's simple to use interface and intrinsic gambling feature.
 
 
-# MILSTONES:
+# MILESTONES:
 1. Introduction of more assets:
    A wider asset range will be introduced subsequntly to increase the betting options for users 
 3. User-Friendly Dashboard:
